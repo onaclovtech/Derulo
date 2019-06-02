@@ -1,0 +1,4 @@
+{
+    "imports" : "math,json",
+    "main" : "lambda x: print (math.floor(float(x)))"
+}
